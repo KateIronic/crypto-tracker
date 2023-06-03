@@ -38,8 +38,8 @@ Javascript, HTML, CSS, React, Java, Python.
 
 ## Demo
 
-You can see this we-app here
--crypto-tracker[]
+You can see the project here
+- [crypto-tracker](https://kateironic.github.io/crypto-tracker)
 
 
 ## 🔗 Links
